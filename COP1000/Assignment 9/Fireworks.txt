@@ -1,0 +1,12 @@
+for i in range(0, 20):
+
+		r=100
+		d = math.medians(360/20*i)
+		0 = r * math.cos(d)
+		a = r * math.cos(d)
+
+
+Assignment 9 
+Create 10 Fireworks
+only top half (2/3)
+create a (0.3) delay

@@ -1,0 +1,60 @@
+1.On reciept you show all prices entered.
+	-save all prices to a list 
+
+2. print all elements in list with for loops
+
+3. sum() to get subtotal
+
+4.show dollar sign (import locale)
+
+uses prices[] 
+prices is the name of the list
+
+
+code
+
+prices[]
+while(True):
+	p = float(input("Enter a price"))
+	
+
+	prices.append(p)
+
+for i in range(len(prices)):
+	print(prices[i]  )
+
+
+
+
+
+
+
+Item 1           5.00
+Item 2            6.00
+Item 3           5.00
+
+for i in range(len):
+-------------------
+pList[]
+
+while(true):
+	price = float(input("asdsfasfd"))
+ 	if price ==-1:
+	break;
+pList.append()
+
+print text 
+
+for i in range(len(pList)):
+	print( "Item "  pList[i]   )
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+1.wmove(create_oval(), 300, 800), put it to loops 
+
+
+2. y = 800     you decide each move distance, 10, 
+   y = 800  -10 

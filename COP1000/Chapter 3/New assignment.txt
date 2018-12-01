@@ -1,0 +1,17 @@
+Enter a number:25
+
+25 is an odd number 
+
+
+Enter a number:20 
+
+20 is an even number
+
+
+
+any number program should know if it is an even number or an odd number
+
+
+use modules % 
+
+

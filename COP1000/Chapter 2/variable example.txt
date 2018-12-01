@@ -1,0 +1,10 @@
+10+20=30
+
+x + y = z
+
+a variable is a little space reserved to hold a value on ram.
+
+
+Work on house add two pictures background transparent make pictures move from one side to other side of house.
+b. create a recipt version 1. "recipt1.py"
+get user's input from shell,

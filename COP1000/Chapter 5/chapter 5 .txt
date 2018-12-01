@@ -1,0 +1,13 @@
+a = 60
+operator = "+"
+b = 5
+
+if (operator == "+"):
+	c= a + b 
+elif():
+
+else
+
+c= a - b 
+
+c = a * b

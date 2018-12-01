@@ -1,0 +1,9 @@
+Redo assignment 4 compare 4 numbers return the largest number 
+create a function "CompareNumbers(num1, num2, num3,num4)"
+-returns the largest number
+-save this function in lib1.py
+import this lib1.py to your program
+
+-4 inputs for each number 
+-pass 4 numbers to function
+-display the larger number with print()
